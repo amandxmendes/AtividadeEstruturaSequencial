@@ -1,4 +1,4 @@
-# AtividadesUCProgramacaoUSJT
+# AtividadeEstruturaSequencial
 
 Entrega referente a atividade da UC de Programação de Soluções Computacionais
 Exercicios feitos na linguagem Java
